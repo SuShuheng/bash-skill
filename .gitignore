@@ -181,4 +181,7 @@ cython_debug/
 .cursorindexingignore
 
 # claude
-.claude/
+CLAUDE.md 
+
+# docs
+docs/
